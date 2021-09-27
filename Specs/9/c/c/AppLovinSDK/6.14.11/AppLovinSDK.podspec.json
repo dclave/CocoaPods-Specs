@@ -14,7 +14,7 @@
     "text": "\nCopyright 2021 AppLovin Corp. All rights reserved.\n\nThe AppLovin SDK is available under a commercial license (https://www.applovin.com/eula).\n\n"
   },
   "source": {
-    "http": "https://bintray.com/applovin/iOS/download_file?file_path=applovin-ios-sdk-6.14.11.zip",
+    "http": "https://github.com/AppLovin/AppLovin-MAX-SDK-iOS/archive/refs/tags/release_6_14_11.zip",
     "type": "zip"
   },
   "vendored_frameworks": "applovin-ios-sdk-6.14.11/AppLovinSDK.framework",
